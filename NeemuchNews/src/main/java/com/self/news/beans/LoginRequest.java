@@ -2,7 +2,7 @@ package com.self.news.beans;
 
 /**
  * @author rahul.patidar
- * @date 21-Feb-2021
+ * @date 21-02-2021
  */
 public class LoginRequest {
 
